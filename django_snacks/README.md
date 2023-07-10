@@ -12,4 +12,4 @@ Django framework which can installed by pip install Django
 
 
 
-[tests-link](./django_snacks/snacks/tests.py) 
+[tests-link](./snacks/tests.py) 
