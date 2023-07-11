@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(127, 84, 84);
+}
+
+h1 {
+    color: bisque;
+}
+
+nav a {
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+    color: bisque;
+    padding-right: 100px;
+}
+

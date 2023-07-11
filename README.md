@@ -13,3 +13,8 @@ Django framework which can installed by pip install Django
 
 
 [tests-link](./django_snacks/snacks/tests.py) 
+
+- How to initialize/run the application
+after run cd .\django_snacks and make sure that you are in right directory.
+
+you can simply run the app by typing the command python manage.py runserver in your terminal and press Enter
